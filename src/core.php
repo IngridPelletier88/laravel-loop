@@ -27,3 +27,4 @@ Laravel Loop is a powerful Model Context Protocol (MCP) server designed specific
 // clarify the control flow
 // handle the edge case from the last release
 // clarify the control flow
+// drop an unused branch
