@@ -36,3 +36,4 @@ Notes and usage details for laravel-loop.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
